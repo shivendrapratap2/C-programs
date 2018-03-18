@@ -8,9 +8,9 @@ int main()
     scanf("%d",&n);
     int data[n],value;
     printf("*****choices******\n");
-    printf("1. push (to add data)\n");
-    printf("2. pop (to delete data)\n");
-    printf("3. peek (to read data)\n");
+    printf("1. push\n");
+    printf("2. pop\n");
+    printf("3. peek\n");
     printf("4. Display\n");
     printf("5. Exit");
     printf("\n");
