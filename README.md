@@ -1,4 +1,5 @@
 # C-programs
 different type of data structures implemented.
-Here you can find different programs or problems implemented or solved using C programming language.
+
+A data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
